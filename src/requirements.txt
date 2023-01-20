@@ -1,0 +1,6 @@
+astropy
+sep
+opencv
+matplotlib
+astroalign
+argparse
